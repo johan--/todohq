@@ -1,8 +1,8 @@
 GIT
-  remote: git://github.com/sporkrb/spork-rails.git
-  revision: 3224f84d8c31fcb0894e9a43f6c3ac67e3aa0d71
+  remote: https://github.com/sporkrb/spork-rails.git
+  revision: 0dd45e59d3237b4c8f9efc215b46d9c07072a95e
   specs:
-    spork-rails (3.2.1)
+    spork-rails (4.0.0)
       rails (>= 3.0.0, < 5)
       spork (>= 1.0rc0)
 
@@ -157,7 +157,7 @@ GEM
       coderay (~> 1.0.5)
       method_source (~> 0.8)
       slop (~> 3.4)
-    rack (1.5.2)
+    rack (1.5.5)
     rack-test (0.6.2)
       rack (>= 1.0)
     rails (4.0.0)
@@ -216,7 +216,7 @@ GEM
       rubyzip
       websocket (~> 1.0.4)
     slop (3.4.5)
-    spork (1.0.0rc3)
+    spork (1.0.0rc4)
     sprockets (2.10.0)
       hike (~> 1.2)
       multi_json (~> 1.0)
